@@ -45,7 +45,7 @@ I am actively seeking **AI/ML, Agentic AI, or Python internships** where I can c
 ## Tech Stack
 
 **Programming & Data**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Python]((https://github.com/muhammadsubhantech/Py-Projects))
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
