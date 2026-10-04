@@ -103,33 +103,6 @@ I'm actively looking for **AI/ML, Agentic AI or Python internships** where I can
 
 ---
 
-## 🚀 Featured Projects
-
-### 🌱 Bean Classifier AI
-Machine learning / deep learning application for bean classification.
-
-**Tech:** `Python` `TensorFlow` `Scikit-learn` `Streamlit`
-
-- Built a classification model using numerical and shape-based features  
-- Processed and prepared structured dataset features  
-- Created a Streamlit interface for real-time predictions  
-- Displays predicted class with confidence score  
-
----
-
-### 📉 Customer Churn Prediction
-Binary classification project focused on predicting customer churn.
-
-**Tech:** `Python` `TensorFlow/Keras` `Scikit-learn`
-
-- Data preprocessing and feature encoding  
-- Neural network based classification  
-- Precision, Recall, AUC and F1-score evaluation  
-- Used callbacks and class weighting during training  
-- Worked on threshold optimization for better F1 performance  
-
----
-
 ### 🗄️ SQL & Data Analysis
 Hands-on SQL and data analysis projects using structured datasets.
 
