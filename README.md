@@ -1,132 +1,97 @@
 <div align="center">
 
-# 👋 Hi, I'm Muhammad Subhan
+# Muhammad Subhan
 
-### AI/ML Developer • Agentic AI • Python • Data Engineering
-
-<br>
-
-<p>
-  <a href="https://github.com/muhammadsubhantech">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/muhammad-subhan-ai">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:muhammadsubhan.tech0@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://muhammadsubhantech.taskade.site">
-    <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=taskade&logoColor=white" alt="Portfolio"/>
-  </a>
-</p>
-
-<p>
-  <a href="https://www.instagram.com/muhammadsubhan.tech0">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://www.tiktok.com/@muhammadsubhantech">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/>
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=61594961282917">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
-</p>
+**AI/ML Developer · Agentic AI · Python · Data Engineering**
 
 <br>
 
-📍 **Karachi, Pakistan** &nbsp; • &nbsp; 💻 **Open to Remote Opportunities**
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/muhammadsubhantech)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-subhan-ai)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:muhammadsubhan.tech0@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00C7B7?style=flat-square&logo=taskade&logoColor=white)](https://muhammadsubhantech.taskade.site)
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/muhammadsubhan.tech0)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white)](https://www.tiktok.com/@muhammadsubhantech)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61594961282917)
+
+<br>
+
+**Karachi, Pakistan** · Open to Remote Opportunities
 
 </div>
 
 ---
 
-## 🧠 About Me
+## About Me
 
-I'm **Muhammad Subhan**, an aspiring **AI/ML Developer** from Karachi, Pakistan.
+I am **Muhammad Subhan**, an aspiring AI/ML Developer based in Karachi, Pakistan.
 
-Currently studying **ICS / Computer Science** at Government National College while completing a **1-Year Python With AI Diploma** from TechZone.
+Currently pursuing **ICS / Computer Science** at Government National College while completing a **1-Year Python with AI Diploma** from TechZone.
 
-### Main Interests
-- 🤖 Artificial Intelligence  
-- 🧠 Machine Learning & Deep Learning  
-- ⚡ Agentic AI  
-- 🐍 Python Development  
-- 📊 Data Analysis  
-- 🗄️ SQL & Data Engineering  
-- 🚀 Building practical AI applications  
+**Core Interests**
+- Artificial Intelligence
+- Machine Learning & Deep Learning
+- Agentic AI
+- Python Development
+- Data Analysis
+- SQL & Data Engineering
+- Building practical AI applications
 
-I'm actively looking for **AI/ML, Agentic AI or Python internships** where I can gain real-world experience and contribute to meaningful projects.
-
----
-
-## 🛠️ Tech Stack
-
-### Programming & Data
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-</p>
-
-### Data Visualization
-<p>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" />
-</p>
-
-### Machine Learning & AI
-<p>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-</p>
-
-<p>
-<img src="https://img.shields.io/badge/Machine%20Learning-0078D4?style=flat-square" />
-<img src="https://img.shields.io/badge/Deep%20Learning-8A2BE2?style=flat-square" />
-<img src="https://img.shields.io/badge/CNN-FF6F00?style=flat-square" />
-<img src="https://img.shields.io/badge/RNN-00A98F?style=flat-square" />
-<img src="https://img.shields.io/badge/Transfer%20Learning-5C2D91?style=flat-square" />
-<img src="https://img.shields.io/badge/Feature%20Extraction-2E8B57?style=flat-square" />
-</p>
-
-### AI & Development Tools
-<p>
-<img src="https://img.shields.io/badge/Agentic%20AI-111827?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
+I am actively seeking **AI/ML, Agentic AI, or Python internships** where I can contribute to real-world projects and gain professional experience.
 
 ---
 
-### 🗄️ SQL & Data Analysis
-Hands-on SQL and data analysis projects using structured datasets.
+## Tech Stack
 
-**Tech:** `SQL` `Python` `Pandas`
+**Programming & Data**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
-- GROUP BY & aggregate functions  
-- Filtering and analytical queries  
-- Joins and relational data  
-- Data analysis and reporting  
-- Building foundation for Data Engineering  
+**Data Visualization**  
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square)
+
+**Machine Learning & AI**  
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+
+**Tools & Frameworks**  
+![Agentic AI](https://img.shields.io/badge/Agentic%20AI-111827?style=flat-square)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 ---
 
-## 📚 Currently Learning
+## Currently Learning — Data Engineering Path
 
-```text
-Agentic AI
-    ↓
-AI Agents & Automation
-    ↓
-Machine Learning
-    ↓
-Deep Learning
-    ↓
-Data Engineering
-    ↓
-Real-World AI Applications
+| Status       | Topic                               |
+|--------------|-------------------------------------|
+| Completed    | SQL — The Language of Data          |
+| In Progress  | Thinking Like a Data Engineer       |
+| Upcoming     | Python — The Engineer's Tool        |
+| Upcoming     | Orchestration — Apache Airflow      |
+| Upcoming     | Engineering Practices               |
+| Upcoming     | Agentic Data Engineering            |
+| Upcoming     | Cloud Warehousing — Snowflake + dbt |
+| Upcoming     | Real-Time Data — Apache Kafka       |
+| Upcoming     | AWS for Data Engineers              |
+| Upcoming     | Azure for Data Engineers            |
+
+---
+
+<div align="center">
+
+### Let's Connect
+
+Feel free to reach out for collaborations, internships, or professional discussions.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00C7B7?style=flat-square)](https://muhammadsubhantech.taskade.site)
+[![Email](https://img.shields.io/badge/Email-Me-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:muhammadsubhan.tech0@gmail.com)
+
+</div>
