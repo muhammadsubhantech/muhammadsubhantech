@@ -9,8 +9,8 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/muhammadsubhantech)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-subhan-ai)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:muhammadsubhan.tech0@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00C7B7?style=flat-square&logo=taskade&logoColor=white)](https://muhammadsubhantech.vercel.app/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00C7B7?style=flat-square&logo=taskade&logoColor=white)](https://muhammadsubhantech.taskade.site)
+[![Portfolio 1](https://img.shields.io/badge/Portfolio-00C7B7?style=flat-square&logo=taskade&logoColor=white)](https://muhammadsubhantech.vercel.app/)
+[![Portfolio 2](https://img.shields.io/badge/Portfolio-00A3A3?style=flat-square&logo=taskade&logoColor=white)](https://muhammadsubhantech.taskade.site)
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/muhammadsubhan.tech0)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white)](https://www.tiktok.com/@muhammadsubhantech)
@@ -91,8 +91,8 @@ I am actively seeking **AI/ML, Agentic AI, or Python internships** where I can c
 ### Let's Connect
 
 Feel free to reach out for collaborations, internships, or professional discussions.
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00C7B7?style=flat-square)](https://muhammadsubhantech.taskade.site)
+[![Portfolio 1](https://img.shields.io/badge/Portfolio-Visit-00C7B7?style=flat-square)](https://muhammadsubhantech.vercel.app/)
+[![Portfolio 2](https://img.shields.io/badge/Portfolio-Visit-00A3A3?style=flat-square)](https://muhammadsubhantech.taskade.site)
 [![Email](https://img.shields.io/badge/Email-Me-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:muhammadsubhan.tech0@gmail.com)
 
 </div>
