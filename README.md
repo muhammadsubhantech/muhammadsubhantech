@@ -1,131 +1,177 @@
-# Muhammad Subhan
+# <p align="center">Muhammad Subhan</p>
 
-### AI/ML Developer | Python | Deep Learning | Agentic AI | Cloud Data Engineering
-
-I work with Python, AI, and data technologies, building projects while developing my skills in Machine Learning, Deep Learning, and Cloud Data Engineering.
-
-## 🌐 Portfolio
-
-- [Portfolio Website](https://muhammadsubhantech.vercel.app/)
-- [Portfolio Website — Taskade](https://muhammadsubhantech.taskade.site)
-
-## 🤝 Connect With Me
-
-<p align="left">
-<a href="https://github.com/muhammadsubhantech"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-<a href="https://www.linkedin.com/in/muhammad-subhan-ai"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="mailto:muhammadsubhan.tech0@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-<a href="https://www.instagram.com/muhammadsubhan.tech0"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://www.tiktok.com/@muhammadsubhantech"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"></a>
-<a href="https://www.facebook.com/profile.php?id=61594961282917"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00C9A7&center=true&vCenter=true&width=700&lines=AI%2FML+Developer;Python+Developer;Deep+Learning+Enthusiast;Cloud+Data+Engineering;Exploring+Agentic+AI" alt="Typing SVG" />
 </p>
+
+<p align="center">
+  <a href="https://muhammadsubhantech.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Website-00C9A7?style=for-the-badge" alt="Portfolio"/>
+  </a>
+  <a href="https://muhammadsubhantech.taskade.site">
+    <img src="https://img.shields.io/badge/🚀_Portfolio_2-Explore-6C63FF?style=for-the-badge" alt="Portfolio 2"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=muhammadsubhantech&style=for-the-badge&color=00C9A7" alt="Profile Views"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/muhammadsubhantech">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/muhammad-subhan-ai">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:muhammadsubhan.tech0@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Muhammad Subhan"/>
+  </a>
+  <a href="https://www.instagram.com/muhammadsubhan.tech0">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://www.tiktok.com/@muhammadsubhantech">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/>
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=61594961282917">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="mailto:muhammadsubhan.tech0@gmail.com">
+    <img src="https://img.shields.io/badge/Contact_Me-muhammadsubhan.tech0%40gmail.com-00C9A7?style=flat-square&logo=gmail&logoColor=white" alt="Send me an email"/>
+  </a>
+</p>
+
+---
 
 ## 👨‍💻 About Me
 
-- Computer Science student at Government National College.
-- Python programming and Python with AI training at TechZone, Shahrah-e-Faisal.
-- Cloud Data Engineering training through Saylani / SMIT.
-- Interested in Machine Learning, Deep Learning, data analytics, and AI applications.
-- Exploring neural networks, CNNs, RNNs, and Agentic AI.
-- Building programming projects and improving my technical skills.
+I'm a Computer Science student interested in building practical solutions with Python, Artificial Intelligence, Machine Learning, and data technologies.
 
-## 🛠️ Technical Skills
+- 🐍 Python programming and Python with AI training at TechZone, Shahrah-e-Faisal.
+- ☁️ Cloud Data Engineering training through Saylani / SMIT.
+- 🧠 Exploring Machine Learning, Deep Learning, and neural networks.
+- 🖼️ Interested in CNN-based image classification and RNN applications.
+- 📊 Learning data analysis, data processing, and predictive modeling.
+- 🤖 Exploring Agentic AI and intelligent automation.
+- 🚀 Building projects to improve my programming and problem-solving skills.
 
-### Programming & Data Analysis
+---
 
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="Matplotlib">
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" alt="Seaborn">
+## 🛠️ Tech Stack
+
+### 💻 Programming Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,mysql&theme=dark" alt="Python and MySQL"/>
 </p>
 
-### Artificial Intelligence & Machine Learning
+### 📊 Data Analysis & Visualization
 
-<p>
-<img src="https://img.shields.io/badge/Artificial_Intelligence-412991?style=for-the-badge" alt="Artificial Intelligence">
-<img src="https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Machine Learning">
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn">
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=numpy,pandas&theme=dark" alt="Data tools"/>
+  <img src="https://img.shields.io/badge/Matplotlib-Data_Visualization-11557C?style=for-the-badge" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/Seaborn-Statistical_Visualization-4C72B0?style=for-the-badge" alt="Seaborn"/>
 </p>
 
-### Deep Learning & Neural Networks
+### 🧠 AI, Machine Learning & Deep Learning
 
-<p>
-<img src="https://img.shields.io/badge/Deep_Learning-8A2BE2?style=for-the-badge" alt="Deep Learning">
-<img src="https://img.shields.io/badge/CNN-Convolutional_Neural_Networks-6A5ACD?style=for-the-badge" alt="CNN">
-<img src="https://img.shields.io/badge/RNN-Recurrent_Neural_Networks-008080?style=for-the-badge" alt="RNN">
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" alt="TensorFlow and PyTorch"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-Machine_Learning-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
+  <img src="https://img.shields.io/badge/CNN-Convolutional_Neural_Networks-6C63FF?style=for-the-badge" alt="CNN"/>
+  <img src="https://img.shields.io/badge/RNN-Recurrent_Neural_Networks-00A896?style=for-the-badge" alt="RNN"/>
 </p>
 
-### AI Application Development & Tools
+### ☁️ Cloud & Data Engineering
 
-<p>
-<img src="https://img.shields.io/badge/Agentic_AI-6C3483?style=for-the-badge" alt="Agentic AI">
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit">
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker,git,github&theme=dark" alt="Cloud and development tools"/>
+  <img src="https://img.shields.io/badge/ETL_Data_Pipelines-Data_Engineering-00C9A7?style=for-the-badge" alt="ETL and Data Pipelines"/>
 </p>
 
-### Cloud Data Engineering
+### 🌐 Application Development & AI
 
-- Data Engineering fundamentals
-- SQL and data processing
-- ETL / ELT concepts
-- Data ingestion and transformation
-- Data pipelines and workflow concepts
-- Cloud data technologies
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flask,git,github&theme=dark" alt="Development tools"/>
+  <img src="https://img.shields.io/badge/Agentic_AI-Intelligent_Automation-6C63FF?style=for-the-badge" alt="Agentic AI"/>
+  <img src="https://img.shields.io/badge/Streamlit-AI_Apps-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
+</p>
+
+---
 
 ## 🎓 Education & Training
 
-**Government National College**  
-Intermediate — Computer Science (ICS)
+| Program | Institute |
+|---|---|
+| Intermediate — Computer Science (ICS) | Government National College |
+| Python with AI | TechZone, Shahrah-e-Faisal |
+| Cloud Data Engineering | Saylani / SMIT |
 
-**TechZone — Shahrah-e-Faisal, Karachi**  
-Python with AI training
+---
 
-**Saylani / SMIT**  
-Cloud Data Engineering training
+## 🚀 Featured Work
 
-## 🚀 Projects
+### 🖼️ CNN Image Classification
 
-### CNN Image Classification
+Exploring image classification using Convolutional Neural Networks, with a focus on image preprocessing, neural network architecture, model training, and evaluation.
 
-Working with Convolutional Neural Network concepts for image classification, including image preprocessing, model training, and evaluation.
+### 🌐 Personal Portfolio
 
-### Personal Portfolio
+<p align="center">
+  <a href="https://muhammadsubhantech.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio_1-Visit_Now-00C9A7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio 1"/>
+  </a>
+  <a href="https://muhammadsubhantech.taskade.site">
+    <img src="https://img.shields.io/badge/Portfolio_2-Visit_Now-6C63FF?style=for-the-badge" alt="Portfolio 2"/>
+  </a>
+</p>
 
-- [Live Portfolio — Vercel](https://muhammadsubhantech.vercel.app/)
-- [Portfolio — Taskade](https://muhammadsubhantech.taskade.site)
+---
 
-### Areas of Interest
+## 📚 Learning Journey
 
-- Machine Learning and predictive analytics
-- Deep Learning and neural networks
-- CNN and RNN applications
-- AI-powered applications and chatbots
-- Agentic AI and automation
-- Cloud Data Engineering and data pipelines
+- Python programming and SQL
+- Machine Learning fundamentals
+- Deep Learning, CNNs, and RNNs
+- Cloud Data Engineering
+- ETL/ELT and data pipeline concepts
+- Agentic AI and intelligent automation
+- Exploring Apache Airflow, Apache Kafka, Snowflake, dbt, AWS, and Azure
 
-## 📚 Current Learning Goals
+---
 
-- Strengthening Machine Learning and Deep Learning practice
-- Building practical AI projects
-- Improving Data Engineering skills
-- Exploring Apache Airflow and Apache Kafka
-- Learning Snowflake and dbt
-- Exploring AWS and Azure data services
+## 📊 GitHub Statistics
 
-## 🎯 Career Objective
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=muhammadsubhantech&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadsubhantech&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+</p>
 
-To develop practical expertise in Artificial Intelligence, Machine Learning, and Cloud Data Engineering by building useful applications, solving technical problems, and continuously improving my programming skills.
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=muhammadsubhantech&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
+</p>
 
-## 📫 Contact
+---
 
-- **Email:** [muhammadsubhan.tech0@gmail.com](mailto:muhammadsubhan.tech0@gmail.com)
-- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/muhammad-subhan-ai)
-- **GitHub:** [Explore my repositories](https://github.com/muhammadsubhantech)
+## 🎯 My Goal
 
+To develop practical skills in AI/ML and Cloud Data Engineering, build useful software, and keep learning through hands-on projects.
+
+---
+
+<p align="center">
+  <a href="mailto:muhammadsubhan.tech0@gmail.com">
+    <img src="https://img.shields.io/badge/Let's_Connect-Send_an_Email-00C9A7?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email"/>
+  </a>
+</p>
+
+<p align="center">
+  <i>Building, learning, and improving one project at a time.</i>
+</p>
