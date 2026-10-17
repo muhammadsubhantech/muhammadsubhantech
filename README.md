@@ -13,10 +13,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=muhammadsubhantech&style=for-the-badge&color=00C9A7" alt="Profile Views"/>
-</p>
-
 ---
 
 ## 🌐 Connect With Me
